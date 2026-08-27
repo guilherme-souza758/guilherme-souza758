@@ -1,57 +1,54 @@
 # Olá, eu sou Guilherme de Souza Santos 👋
 
-### Operações Comerciais | CRM | E-commerce | Análise de Indicadores | Ciência da Computação
+### Ciência da Computação | Tecnologia | Dados | Automação | Desenvolvimento
 
-Profissional com experiência em **operações comerciais, CRM e e-commerce**, atuando no atendimento B2B e B2C, suporte às vendas, gestão de produtos, acompanhamento de indicadores e relacionamento com clientes.
+Sou graduando em **Ciência da Computação pela Cruzeiro do Sul**, com formação em **Gestão Comercial e Marketing pelo Centro Universitário ENIAC** e experiência profissional em operações, vendas, CRM, e-commerce e análise de indicadores.
 
-Atualmente, exerço a função de **Assistente de Vendas na Gree Electric Appliances do Brasil**, contribuindo para a administração de processos comerciais, gestão operacional, acompanhamento de vendas e otimização das operações.
+Minha trajetória combina **visão de negócios e tecnologia**, permitindo compreender problemas de negócio e buscar soluções utilizando dados, sistemas e processos tecnológicos.
 
-Sou formado em **Gestão Comercial e Marketing pelo Centro Universitário ENIAC** e atualmente graduando em **Ciência da Computação pela Cruzeiro do Sul**, desenvolvendo conhecimentos em tecnologia, dados e melhoria de processos.
+Atualmente, estou direcionando minha carreira para a área de **Tecnologia**, desenvolvendo conhecimentos em programação, dados, automação, sistemas e melhoria de processos.
 
-Tenho perfil **analítico, organizado e orientado a resultados**, com forte interesse em conectar negócios e tecnologia para tornar processos mais eficientes e gerar melhores resultados.
+Tenho perfil **analítico, curioso e orientado à resolução de problemas**, com interesse em transformar necessidades de negócio em soluções tecnológicas eficientes.
 
 ---
 
-## 💼 Experiência
+## 💻 Experiência Profissional
 
 ### Gree Electric Appliances do Brasil
 **Assistente de Vendas** · *Fev/2026 – Atual*
 
-Operações Comerciais · CRM · E-commerce · Gestão de Produtos  
-Atendimento B2B/B2C · Suporte a Vendas · Indicadores · Relacionamento com Clientes  
-Gestão de Processos · Análise de Dados · Melhoria de Processos
+CRM · E-commerce · Gestão de Produtos · Indicadores  
+Análise de Dados · Processos · Sistemas · Atendimento B2B/B2C  
+Melhoria de Processos · Resolução de Problemas · Visão de Negócios
 
 ### Souza Veículos
 **Assistente de Marketing e Vendas** · *Fev/2024 – Fev/2026*
 
-Vendas · Negociação Comercial · Atendimento ao Cliente · Pós-venda  
-Marketing Digital · Gestão de Anúncios · Comunicação · Relacionamento com Clientes  
-Estratégias Comerciais · Produção de Conteúdo · Orientação a Resultados
+Tecnologia aplicada a vendas · Marketing Digital · Gestão de Anúncios  
+Análise de Informações · Comunicação · Atendimento · Processos Comerciais  
+Relacionamento com Clientes · Estratégias Digitais
 
 ### LSG Sky Chefs
 **Assistente Administrativo** · *Mar/2023 – Fev/2024*
 
-Rotinas Administrativas · Microsoft Excel · Gestão de Informações  
-Organização de Processos · Controle de Documentos · Análise e Atualização de Dados
+Microsoft Excel · Gestão de Informações · Organização de Dados  
+Processos Administrativos · Controle de Documentos · Análise de Informações
 
 ### SESI São Paulo
 **Jovem Aprendiz** · *Jan/2021 – Dez/2022*
 
-Rotinas Administrativas · Organização · Comunicação · Trabalho em Equipe  
-Gestão de Informações · Responsabilidade · Organização de Tarefas
+Rotinas Administrativas · Organização · Comunicação  
+Gestão de Informações · Trabalho em Equipe · Processos
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🎓 Formação
 
 **Ciência da Computação**  
 Cruzeiro do Sul · Graduação em andamento  
 Conclusão prevista: 2030
 
-**Tecnólogo em Gestão Comercial**  
-Centro Universitário ENIAC · 2024
-
-**Tecnólogo em Marketing**  
+**Gestão Comercial e Marketing**  
 Centro Universitário ENIAC · 2024
 
 **Técnico em Eletroeletrônica**  
@@ -59,50 +56,48 @@ SENAI São Paulo · 2022
 
 ---
 
-## 🛠️ Competências
+## 🛠️ Conhecimentos
 
-### Negócios e Operações
+### Tecnologia
 
-Operações Comerciais · Atendimento B2B/B2C · CRM · E-commerce  
-Gestão de Produtos · Negociação Comercial · Relacionamento com Clientes  
-Indicadores de Desempenho · Análise de Dados · Controle de Processos
+Programação · Lógica de Programação · Estruturas de Dados · Algoritmos  
+Dados · Automação · Sistemas · Tecnologia da Informação  
+Análise e Solução de Problemas · Melhoria de Processos
 
-### Ferramentas
+### Negócios & Dados
 
-Microsoft Excel · Pacote Office · Canva · CapCut
+CRM · E-commerce · Análise de Indicadores · Excel  
+Gestão de Processos · Gestão de Produtos · Operações Comerciais
 
 ---
 
 ## 📚 Cursos e Certificações
 
-Privacidade e Proteção de Dados (LGPD) · Desvendando Blockchain  
-Desvendando a Indústria 4.0 · Desvendando o 5G · Empreender SENAI
+Privacidade e Proteção de Dados (LGPD)  
+Desvendando Blockchain  
+Desvendando a Indústria 4.0  
+Desvendando o 5G  
+Empreender SENAI
 
 ---
 
-## 🌎 Idiomas
+## 🚀 Objetivo
 
-**Inglês — Intermediário**  
-Leitura · Escrita · Conversação
+Busco minha evolução profissional na área de **Tecnologia**, com interesse em oportunidades relacionadas a **Desenvolvimento de Software, Dados, Automação, Sistemas, Business Intelligence e Tecnologia aplicada aos negócios**.
 
----
-
-## 🚀 Objetivos
-
-Busco oportunidades que permitam unir minha experiência em **negócios e operações comerciais** com minha formação em **tecnologia e análise de dados**.
-
-Tenho interesse principalmente em **Operações Comerciais, CRM, E-commerce, Business Intelligence, Análise de Dados, Tecnologia aplicada aos negócios, Automação e Melhoria de Processos**.
-
-Meu objetivo é desenvolver uma carreira na interseção entre **negócios, tecnologia e dados**, utilizando conhecimentos técnicos para solucionar problemas, otimizar processos e apoiar a tomada de decisões.
+Meu objetivo é unir minha experiência em **negócios e processos** à formação em **Ciência da Computação**, desenvolvendo soluções tecnológicas que resolvam problemas reais e gerem valor para as empresas.
 
 ---
 
 ## 📫 Contato
 
-📍 Guarulhos, SP  
 📧 [gui758ouza@gmail.com](mailto:gui758ouza@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/guilhermesousantos)
 
 ---
 
-⭐ *Negócios + Dados + Tecnologia*
+### 💡 Atualmente estudando
+
+`Ciência da Computação` `Programação` `Dados` `Algoritmos` `Automação` `Sistemas` `Tecnologia`
+
+⭐ *Tecnologia + Dados + Negócios*
