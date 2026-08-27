@@ -1,124 +1,99 @@
 # Olá, eu sou Guilherme de Souza Santos 👋
 
-### Operações Comerciais | CRM | E-commerce | Dados | Tecnologia
+### Operações Comerciais | CRM | E-commerce | Análise de Indicadores | Ciência da Computação
 
-Profissional com experiência em **Operações Comerciais, CRM, E-commerce, atendimento B2B/B2C, gestão de produtos, suporte a vendas e análise de indicadores**. Atualmente, atuo como **Assistente de Vendas na Gree Electric Appliances do Brasil**, desenvolvendo competências em gestão de processos comerciais, relacionamento com clientes, CRM, e-commerce e acompanhamento de indicadores.
+Profissional com experiência em **operações comerciais, CRM e e-commerce**, atuando no atendimento B2B e B2C, suporte às vendas, gestão de produtos, acompanhamento de indicadores e relacionamento com clientes.
 
-Sou formado em **Gestão Comercial e Marketing pelo Centro Universitário ENIAC** e atualmente curso **Ciência da Computação na Cruzeiro do Sul**, ampliando meus conhecimentos em **tecnologia, dados, programação e melhoria de processos**.
+Atualmente, exerço a função de **Assistente de Vendas na Gree Electric Appliances do Brasil**, contribuindo para a administração de processos comerciais, gestão operacional, acompanhamento de vendas e otimização das operações.
 
-Tenho perfil **analítico, organizado e orientado a resultados**, buscando integrar conhecimentos de **negócios, tecnologia e dados** para otimização de processos e tomada de decisões.
+Sou formado em **Gestão Comercial e Marketing pelo Centro Universitário ENIAC** e atualmente graduando em **Ciência da Computação pela Cruzeiro do Sul**, desenvolvendo conhecimentos em tecnologia, dados e melhoria de processos.
+
+Tenho perfil **analítico, organizado e orientado a resultados**, com forte interesse em conectar negócios e tecnologia para tornar processos mais eficientes e gerar melhores resultados.
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Experiência
 
 ### Gree Electric Appliances do Brasil
-**Assistente de Vendas | Fev/2026 – Atual**
+**Assistente de Vendas** · *Fev/2026 – Atual*
 
-- Operações Comerciais e gestão de processos
-- CRM e relacionamento com clientes B2B/B2C
-- E-commerce e gestão de produtos
-- Análise e acompanhamento de indicadores comerciais
-- Suporte a vendas e negociações
-- Organização e controle de processos
-- Melhoria de processos e resolução de problemas
-- Comunicação e relacionamento interpessoal
+Operações Comerciais · CRM · E-commerce · Gestão de Produtos  
+Atendimento B2B/B2C · Suporte a Vendas · Indicadores · Relacionamento com Clientes  
+Gestão de Processos · Análise de Dados · Melhoria de Processos
 
 ### Souza Veículos
-**Assistente de Marketing e Vendas | Fev/2024 – Fev/2026**
+**Assistente de Marketing e Vendas** · *Fev/2024 – Fev/2026*
 
-- Vendas, negociação e atendimento ao cliente
-- Marketing digital e gestão de anúncios
-- Comunicação e produção de conteúdo
-- Gestão de informações e suporte ao processo comercial
-- Relacionamento e pós-venda
-- Orientação a resultados
+Vendas · Negociação Comercial · Atendimento ao Cliente · Pós-venda  
+Marketing Digital · Gestão de Anúncios · Comunicação · Relacionamento com Clientes  
+Estratégias Comerciais · Produção de Conteúdo · Orientação a Resultados
 
 ### LSG Sky Chefs
-**Assistente Administrativo | Mar/2023 – Fev/2024**
+**Assistente Administrativo** · *Mar/2023 – Fev/2024*
 
-- Rotinas administrativas e organização de processos
-- Microsoft Excel e gestão de planilhas
-- Controle de informações e documentos
-- Organização, planejamento e cumprimento de prazos
+Rotinas Administrativas · Microsoft Excel · Gestão de Informações  
+Organização de Processos · Controle de Documentos · Análise e Atualização de Dados
 
 ### SESI São Paulo
-**Jovem Aprendiz | Jan/2021 – Dez/2022**
+**Jovem Aprendiz** · *Jan/2021 – Dez/2022*
 
-- Rotinas administrativas
-- Organização e controle de informações
-- Comunicação e trabalho em equipe
-- Gestão de tarefas e cumprimento de processos
+Rotinas Administrativas · Organização · Comunicação · Trabalho em Equipe  
+Gestão de Informações · Responsabilidade · Organização de Tarefas
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação Acadêmica
 
-**Ciência da Computação** — Cruzeiro do Sul  
-Graduação em andamento · Conclusão prevista: 2030
+**Ciência da Computação**  
+Cruzeiro do Sul · Graduação em andamento  
+Conclusão prevista: 2030
 
-**Gestão Comercial** — Centro Universitário ENIAC  
-Tecnólogo · 2024
+**Tecnólogo em Gestão Comercial**  
+Centro Universitário ENIAC · 2024
 
-**Marketing** — Centro Universitário ENIAC  
-Tecnólogo · 2024
+**Tecnólogo em Marketing**  
+Centro Universitário ENIAC · 2024
 
-**Técnico em Eletroeletrônica** — SENAI São Paulo  
-2022
+**Técnico em Eletroeletrônica**  
+SENAI São Paulo · 2022
 
 ---
 
 ## 🛠️ Competências
 
-**Negócios & Operações**
-- Operações Comerciais
-- CRM
-- E-commerce
-- Gestão de Produtos
-- Atendimento B2B/B2C
-- Vendas e Negociação
-- Relacionamento com Clientes
-- Indicadores de Desempenho
-- Análise de Dados
-- Melhoria de Processos
+### Negócios e Operações
 
-**Tecnologia & Ferramentas**
-- Microsoft Excel
-- Pacote Office
-- Canva
-- CapCut
-- Tecnologia e Dados
-- Programação — em desenvolvimento
+Operações Comerciais · Atendimento B2B/B2C · CRM · E-commerce  
+Gestão de Produtos · Negociação Comercial · Relacionamento com Clientes  
+Indicadores de Desempenho · Análise de Dados · Controle de Processos
 
-**Conhecimentos**
-- LGPD
-- Blockchain
-- Indústria 4.0
-- 5G
+### Ferramentas
+
+Microsoft Excel · Pacote Office · Canva · CapCut
 
 ---
 
-## 📚 Cursos
+## 📚 Cursos e Certificações
 
-- Privacidade e Proteção de Dados (LGPD)
-- Desvendando Blockchain
-- Desvendando a Indústria 4.0
-- Desvendando o 5G
-- Empreender SENAI
+Privacidade e Proteção de Dados (LGPD) · Desvendando Blockchain  
+Desvendando a Indústria 4.0 · Desvendando o 5G · Empreender SENAI
 
 ---
 
 ## 🌎 Idiomas
 
-**Inglês — Intermediário**
+**Inglês — Intermediário**  
+Leitura · Escrita · Conversação
 
 ---
 
-## 🚀 Objetivo Profissional
+## 🚀 Objetivos
 
-Busco oportunidades nas áreas de **Operações Comerciais, CRM, E-commerce, Business Intelligence, Análise de Dados e Tecnologia aplicada aos negócios**.
+Busco oportunidades que permitam unir minha experiência em **negócios e operações comerciais** com minha formação em **tecnologia e análise de dados**.
 
-Meu objetivo é construir uma carreira na interseção entre **negócios, tecnologia e dados**, utilizando conhecimentos de **Ciência da Computação** aliados à experiência comercial para **otimizar processos, analisar informações, automatizar atividades e apoiar decisões estratégicas**.
+Tenho interesse principalmente em **Operações Comerciais, CRM, E-commerce, Business Intelligence, Análise de Dados, Tecnologia aplicada aos negócios, Automação e Melhoria de Processos**.
+
+Meu objetivo é desenvolver uma carreira na interseção entre **negócios, tecnologia e dados**, utilizando conhecimentos técnicos para solucionar problemas, otimizar processos e apoiar a tomada de decisões.
 
 ---
 
@@ -130,6 +105,4 @@ Meu objetivo é construir uma carreira na interseção entre **negócios, tecnol
 
 ---
 
-### 🔎 Áreas de interesse
-
-`Operações Comerciais` `CRM` `E-commerce` `Business Intelligence` `Análise de Dados` `Dados` `Tecnologia` `Automação` `Melhoria de Processos` `Ciência da Computação`
+⭐ *Negócios + Dados + Tecnologia*
