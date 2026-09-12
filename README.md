@@ -1,103 +1,34 @@
-# Olá, eu sou Guilherme de Souza Santos 👋
+<h1 align="center">Guilherme de Souza Santos</h1>
+<p align="center"><b>Estudante de Ciência da Computação | Foco em Desenvolvimento, Dados e Automação</b></p>
 
-### Ciência da Computação | Tecnologia | Dados | Automação | Desenvolvimento
-
-Sou graduando em **Ciência da Computação pela Cruzeiro do Sul**, com formação em **Gestão Comercial e Marketing pelo Centro Universitário ENIAC** e experiência profissional em operações, vendas, CRM, e-commerce e análise de indicadores.
-
-Minha trajetória combina **visão de negócios e tecnologia**, permitindo compreender problemas de negócio e buscar soluções utilizando dados, sistemas e processos tecnológicos.
-
-Atualmente, estou direcionando minha carreira para a área de **Tecnologia**, desenvolvendo conhecimentos em programação, dados, automação, sistemas e melhoria de processos.
-
-Tenho perfil **analítico, curioso e orientado à resolução de problemas**, com interesse em transformar necessidades de negócio em soluções tecnológicas eficientes.
+<p align="center">
+  <a href="mailto:gui758ouza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/guilhermesousantos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
-## 💻 Experiência Profissional
+### 🎯 Sobre
 
-### Gree Electric Appliances do Brasil
-**Assistente de Vendas** · *Fev/2026 – Atual*
+Graduando em **Ciência da Computação** (Cruzeiro do Sul, previsão de conclusão em 2030), em transição de carreira para **Tecnologia**, unindo background em negócios, dados e processos a conhecimentos técnicos em programação, automação e sistemas.
 
-CRM · E-commerce · Gestão de Produtos · Indicadores  
-Análise de Dados · Processos · Sistemas · Atendimento B2B/B2C  
-Melhoria de Processos · Resolução de Problemas · Visão de Negócios
+### 🛠️ Stack e conhecimentos técnicos
 
-### Souza Veículos
-**Assistente de Marketing e Vendas** · *Fev/2024 – Fev/2026*
+`Lógica de Programação` `Estruturas de Dados` `Algoritmos` `HTML` `CSS` `Git & GitHub` `Automação` `Excel` `Análise de Dados` `Sistemas` `CRM` `LGPD`
 
-Tecnologia aplicada a vendas · Marketing Digital · Gestão de Anúncios  
-Análise de Informações · Comunicação · Atendimento · Processos Comerciais  
-Relacionamento com Clientes · Estratégias Digitais
+### 💼 Experiência (aplicada a tecnologia e dados)
 
-### LSG Sky Chefs
-**Assistente Administrativo** · *Mar/2023 – Fev/2024*
+- **Gree Electric Appliances do Brasil** — Assistente de Vendas *(2026–atual)*: CRM, e-commerce, análise de indicadores, automação de processos.
+- **Souza Veículos** — Assistente de Marketing e Vendas *(2024–2026)*: tecnologia aplicada a vendas, gestão de anúncios, análise de dados.
 
-Microsoft Excel · Gestão de Informações · Organização de Dados  
-Processos Administrativos · Controle de Documentos · Análise de Informações
+### 📜 Certificações
 
-### SESI São Paulo
-**Jovem Aprendiz** · *Jan/2021 – Dez/2022*
+`LGPD` `Blockchain` `Indústria 4.0` `5G`
 
-Rotinas Administrativas · Organização · Comunicação  
-Gestão de Informações · Trabalho em Equipe · Processos
+### 📚 Estudando atualmente
+
+`Programação` `Estruturas de Dados` `Algoritmos` `Desenvolvimento Web`
 
 ---
 
-## 🎓 Formação
-
-**Ciência da Computação**  
-Cruzeiro do Sul · Graduação em andamento  
-Conclusão prevista: 2030
-
-**Gestão Comercial e Marketing**  
-Centro Universitário ENIAC · 2024
-
-**Técnico em Eletroeletrônica**  
-SENAI São Paulo · 2022
-
----
-
-## 🛠️ Conhecimentos
-
-### Tecnologia
-
-Programação · Lógica de Programação · Estruturas de Dados · Algoritmos  
-Dados · Automação · Sistemas · Tecnologia da Informação  
-Análise e Solução de Problemas · Melhoria de Processos
-
-### Negócios & Dados
-
-CRM · E-commerce · Análise de Indicadores · Excel  
-Gestão de Processos · Gestão de Produtos · Operações Comerciais
-
----
-
-## 📚 Cursos e Certificações
-
-Privacidade e Proteção de Dados (LGPD)  
-Desvendando Blockchain  
-Desvendando a Indústria 4.0  
-Desvendando o 5G  
-Empreender SENAI
-
----
-
-## 🚀 Objetivo
-
-Busco minha evolução profissional na área de **Tecnologia**, com interesse em oportunidades relacionadas a **Desenvolvimento de Software, Dados, Automação, Sistemas, Business Intelligence e Tecnologia aplicada aos negócios**.
-
-Meu objetivo é unir minha experiência em **negócios e processos** à formação em **Ciência da Computação**, desenvolvendo soluções tecnológicas que resolvam problemas reais e gerem valor para as empresas.
-
----
-
-## 📫 Contato
-
-📧 [gui758ouza@gmail.com](mailto:gui758ouza@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/guilhermesousantos)
-
----
-
-### 💡 Atualmente estudando
-
-`Ciência da Computação` `Programação` `Dados` `Algoritmos` `Automação` `Sistemas` `Tecnologia`
-
-⭐ *Tecnologia + Dados + Negócios*
+<p align="center">📫 <a href="mailto:gui758ouza@gmail.com">gui758ouza@gmail.com</a> · <a href="https://linkedin.com/in/guilhermesousantos">LinkedIn</a></p>
